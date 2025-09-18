@@ -1,0 +1,106 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\kauan\\source\\repos\\ControleEstoque.Core\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{40392F70-764C-4099-9F3C-01ECF9D776C1}|ControleEstoque.UI\\ControleEstoque.UI.csproj|c:\\users\\kauan\\source\\repos\\controleestoque.core\\controleestoque.ui\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{40392F70-764C-4099-9F3C-01ECF9D776C1}|ControleEstoque.UI\\ControleEstoque.UI.csproj|solutionrelative:controleestoque.ui\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40392F70-764C-4099-9F3C-01ECF9D776C1}|ControleEstoque.UI\\ControleEstoque.UI.csproj|c:\\users\\kauan\\source\\repos\\controleestoque.core\\controleestoque.ui\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{40392F70-764C-4099-9F3C-01ECF9D776C1}|ControleEstoque.UI\\ControleEstoque.UI.csproj|solutionrelative:controleestoque.ui\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8801D93-E3D5-4428-812A-272A8F791A5E}|ControleEstoque.Core\\ControleEstoque.Core.csproj|c:\\users\\kauan\\source\\repos\\controleestoque.core\\controleestoque.core\\models\\produto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F8801D93-E3D5-4428-812A-272A8F791A5E}|ControleEstoque.Core\\ControleEstoque.Core.csproj|solutionrelative:controleestoque.core\\models\\produto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8801D93-E3D5-4428-812A-272A8F791A5E}|ControleEstoque.Core\\ControleEstoque.Core.csproj|c:\\users\\kauan\\source\\repos\\controleestoque.core\\controleestoque.core\\data\\produtodao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F8801D93-E3D5-4428-812A-272A8F791A5E}|ControleEstoque.Core\\ControleEstoque.Core.csproj|solutionrelative:controleestoque.core\\data\\produtodao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8801D93-E3D5-4428-812A-272A8F791A5E}|ControleEstoque.Core\\ControleEstoque.Core.csproj|c:\\users\\kauan\\source\\repos\\controleestoque.core\\controleestoque.core\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F8801D93-E3D5-4428-812A-272A8F791A5E}|ControleEstoque.Core\\ControleEstoque.Core.csproj|solutionrelative:controleestoque.core\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\kauan\\source\\repos\\ControleEstoque.Core\\ControleEstoque.UI\\Form1.cs",
+              "RelativeDocumentMoniker": "ControleEstoque.UI\\Form1.cs",
+              "ToolTip": "C:\\Users\\kauan\\source\\repos\\ControleEstoque.Core\\ControleEstoque.UI\\Form1.cs",
+              "RelativeToolTip": "ControleEstoque.UI\\Form1.cs",
+              "ViewState": "AgIAAJ8AAAAAAAAAAADgv64AAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-18T13:04:09.013Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\kauan\\source\\repos\\ControleEstoque.Core\\ControleEstoque.Core\\Program.cs",
+              "RelativeDocumentMoniker": "ControleEstoque.Core\\Program.cs",
+              "ToolTip": "C:\\Users\\kauan\\source\\repos\\ControleEstoque.Core\\ControleEstoque.Core\\Program.cs",
+              "RelativeToolTip": "ControleEstoque.Core\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-18T14:41:19.275Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Projeto]",
+              "DocumentMoniker": "C:\\Users\\kauan\\source\\repos\\ControleEstoque.Core\\ControleEstoque.UI\\Form1.cs",
+              "RelativeDocumentMoniker": "ControleEstoque.UI\\Form1.cs",
+              "ToolTip": "C:\\Users\\kauan\\source\\repos\\ControleEstoque.Core\\ControleEstoque.UI\\Form1.cs [Projeto]",
+              "RelativeToolTip": "ControleEstoque.UI\\Form1.cs [Projeto]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-18T14:52:23.268Z",
+              "EditorCaption": " [Projeto]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ProdutoDAO.cs",
+              "DocumentMoniker": "C:\\Users\\kauan\\source\\repos\\ControleEstoque.Core\\ControleEstoque.Core\\Data\\ProdutoDAO.cs",
+              "RelativeDocumentMoniker": "ControleEstoque.Core\\Data\\ProdutoDAO.cs",
+              "ToolTip": "C:\\Users\\kauan\\source\\repos\\ControleEstoque.Core\\ControleEstoque.Core\\Data\\ProdutoDAO.cs",
+              "RelativeToolTip": "ControleEstoque.Core\\Data\\ProdutoDAO.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAUwDEAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-18T14:41:21.119Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Produto.cs",
+              "DocumentMoniker": "C:\\Users\\kauan\\source\\repos\\ControleEstoque.Core\\ControleEstoque.Core\\Models\\Produto.cs",
+              "RelativeDocumentMoniker": "ControleEstoque.Core\\Models\\Produto.cs",
+              "ToolTip": "C:\\Users\\kauan\\source\\repos\\ControleEstoque.Core\\ControleEstoque.Core\\Models\\Produto.cs",
+              "RelativeToolTip": "ControleEstoque.Core\\Models\\Produto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAsAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-18T14:41:13.086Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
